@@ -1,0 +1,252 @@
+table{                                /* сделала временное разграничение для таблиц, чтобы видеть границы  */
+width: 100%;
+border: 2px solid grey;
+}
+td{
+ vertical-align: top;
+border: 2px solid grey;
+}
+
+body{
+    margin: 0;
+}
+
+#div3
+  {
+  background-clip: border-box;
+  background-image: url("fon1.jpg");
+  }
+
+.vkladki_1{
+width: 50%;
+font-family: 'Roboto', sans-serif;                                  /*  вкладки */
+font-size: 18px;
+color: #ffffff;
+text-align: right;
+}
+.vkladki_2{
+width: 12%;
+font-family: 'Roboto', sans-serif;
+font-size: 18px;
+color: #ffffff;
+text-align: right;
+}
+.vkladki_3{
+width: 12%;
+font-family: 'Roboto', sans-serif;
+font-size: 18px;
+color: #ffffff;
+text-align: center;
+}
+.vkladki_4{
+width: 12%;
+font-family: 'Roboto', sans-serif;
+font-size: 18px;
+color: #ffffff;
+}
+.vkladki_5{
+width: 14%;
+font-family: 'Roboto', sans-serif;
+font-size: 18px;
+color: #ffffff;
+margin-right: 200px;
+}
+
+li {
+  display:inline-block;  /* переопределение в строчно-блочный  */
+}
+a {
+font-family: 'Roboto', sans-serif;                                  /*  вкладки */
+font-size: 27px;
+color: #ffffff;
+  -webkit-transition: 0.9s; /* плавный переход  */
+  -moz-transition: 0.9s;
+  -o-transition: 0.9s;
+  transition: 0.9s;
+}
+
+.line{
+margin-top: -60px;
+width: 1520px;
+}
+
+.logo1{
+width: 520px;
+margin-left: 120px;
+}
+
+.text1{
+font-family: 'Roboto', sans-serif;
+font-size: 28px;
+color: #ffffff;
+margin-top: -10px;
+margin-left: 200px;
+}
+
+.vhod{
+width: 320px;
+margin-left: 175px;
+margin-bottom: 150px;
+}
+
+.text2{
+font-family: 'Roboto', sans-serif;
+text-align: center;
+font-size: 38px;
+color: #eb9892;
+margin-bottom: 100px;
+}
+.mk1{
+width: 250px;
+float: right;
+}
+.mk2{
+width: 250px;
+display: block;
+margin-left: auto;
+margin-right: auto;
+}
+.mk3{
+width: 250px;
+display: block;
+margin-left: auto;
+margin-right: auto;
+}
+.mk4{
+width: 250px;
+}
+
+.text3{
+font-family: 'Roboto', sans-serif;
+text-align: center;
+font-size: 24px;
+color: #eb9892;
+}
+.text4{
+font-family: 'Roboto', sans-serif;
+text-align: center;
+font-size: 14px;
+margin-top: -10px;
+color: #eb9892;
+}
+.text5{
+font-family: 'Roboto', sans-serif;
+font-weight: bold;
+text-align: center;
+font-size: 38px;
+color: #c6d8d8;
+}
+.poluch{
+width: 200px;
+}
+.block_4{
+ background-color: #c6d8d8;
+}
+
+.blok4{
+width: 600px;
+margin-top: 50px;
+margin-left: 450px;
+}
+
+.icon{
+width: 950px;
+margin-top: 50px;
+margin-left: 280px;
+}
+.icon2{
+width: 1000px;
+margin-top: 0px;
+margin-left: 250px;
+margin-bottom: 100px;
+}
+.icon3{
+width: 150px;
+margin-top: 50px;
+margin-left: 680px;
+}
+.icon4{
+width: 400px;
+margin-top: 30px;
+margin-left: 560px;
+}
+
+form {
+margin-top: 35px;
+margin-bottom: 100px;
+margin-left: 480px;
+}
+
+input {
+padding: 15px;
+border:0;
+border-bottom:1px solid #eb9892;
+border-radius:10px;
+width:50%;
+margin-bottom: 20px;
+}
+.otpravka{
+margin-top: 35px;
+margin-left: 15px;
+border-radius:0px;
+}
+.logo3{
+width: 250px;
+margin-left: 100px;
+}
+.soc{
+width: 300px;
+margin-left: 100px;
+}
+.shapka{
+background-image: url("fon2.jpg");
+}
+.logo4{
+width: 520px;
+margin-top: 35px;
+margin-left: 120px;
+margin-bottom: -40px;
+}
+.vhod2{
+width: 320px;
+margin-left: 175px;
+margin-bottom: 100px;
+}
+.vkld{
+background-color: #c6d8d8;
+}
+.vkladki_11{
+width: 10%;
+font-family: 'Roboto', sans-serif;                                  /*  вкладки */
+font-size: 18px;
+color: #ffffff;
+text-align: right;
+}
+
+.zag2{
+margin-top: 105px;
+margin-left: 325px;
+width: 820px;
+}
+
+.text8{
+font-family: 'Roboto', sans-serif;
+font-size: 28px;
+font-weight: bold;
+color: #c6d8d8;
+margin-top:60px;
+margin-left: 200px;
+}
+.text9{
+font-family: 'Roboto', sans-serif;
+font-size: 18px;
+color: #eb9892;
+margin-top: -10px;
+margin-left: 200px;
+}
+
+.mk22{
+width: 600px;
+float:right;
+margin-top:60px;
+}
